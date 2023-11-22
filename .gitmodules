@@ -5,3 +5,6 @@
 [submodule "NeuralSens"]
 	path = NeuralSens
 	url = https://github.com/cran/NeuralSens
+[submodule "TSLSTMplus"]
+	path = TSLSTMplus
+	url = https://github.com/jaipizgon/tslstmplus
