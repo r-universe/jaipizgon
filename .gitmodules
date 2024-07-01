@@ -4,7 +4,8 @@
 	branch = HEAD
 [submodule "NeuralSens"]
 	path = NeuralSens
-	url = https://github.com/cran/NeuralSens
+	url = https://github.com/jaipizgon/neuralsens
+	subdir = R
 [submodule "TSLSTMplus"]
 	path = TSLSTMplus
 	url = https://github.com/jaipizgon/tslstmplus
